@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "AWS Study Guides"
+
+[outputs]
+page = ["HTML"]
+
+[params]
+buildSections = true
